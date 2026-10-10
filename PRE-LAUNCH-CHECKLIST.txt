@@ -1,0 +1,20 @@
+RAY PRECICOMP WEBSITE — PRE-LAUNCH QA
+
+HTML pages found: 13
+Files in package: 28
+Internal link / local asset checks: ISSUES FOUND
+Responsive CSS: PASS
+Products dropdown styling: PASS
+Official logo asset included: PASS
+
+IMPORTANT MANUAL CHECKS BEFORE PUBLISHING
+1. Open START_HERE.html and then index.html in Chrome on desktop.
+2. Check the Products dropdown and all six product pages.
+3. Check at mobile width and test menu open/close behavior.
+4. Confirm the live domain and HTTPS configuration in GitHub Pages.
+5. Preserve or restore valid Google Search Console, Analytics and Clarity settings from the current live site if required.
+6. Confirm contact details and ensure email/phone links work.
+7. Publish only after this manual review. This package has not been deployed.
+
+Automated checks:
+START_HERE.html: missing meta description
